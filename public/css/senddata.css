@@ -1,0 +1,36 @@
+#banggoi{
+    padding: 40px;
+    background-color: chartreuse;
+    max-width: 500px;
+    border-radius: 10px;
+}
+label{
+    width: 110px;
+    display: inline-block;
+    font-size: 20px;
+}
+input[type="text"]{
+    color: rebeccapurple;
+    height: 30px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+input[type="submit"]{
+    padding: 10px;
+    border: none;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.title-pm{
+    text-align: center;
+    color: rgb(13, 166, 20);
+}
+select{
+    padding: 10px;
+    min-width: 100px;
+    text-align: center;
+    font-size: 20px;
+}

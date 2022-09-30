@@ -1,0 +1,31 @@
+label{
+    display: inline-block;
+    min-width: 140px;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+.signup-box{
+    display: block;
+    width: 70%;
+    padding: 20px 30px;
+    border: 6px solid greenyellow;
+    border-radius: 9px;
+    margin:100px auto ;
+    background-color: rgb(202, 235, 224);
+}
+input[type="password"], input[type="text"]{
+    border: 5px solid rgb(75, 242, 75);
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 5px 10px;
+    outline-color: rgb(9, 180, 248);
+}
+input[type="submit"]{
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(45, 219, 103);
+    border: 1px solid rgb(166, 206, 166);
+    margin-left: 150px;
+    border-radius: 10px;
+}
